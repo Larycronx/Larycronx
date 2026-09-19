@@ -1,5 +1,5 @@
+<h1 align="center">✦ Larycronx ✦</h1>
 
-# ✦ Larycronx ✦
 
 ### Desenvolvedora em peregrinação pelo código
 
