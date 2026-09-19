@@ -1,10 +1,3 @@
-<!--
-ANTES DE PUBLICAR:
-  1. O username já está configurado como Larycronx.
-  2. Troque apenas SEU_LINKEDIN e SEU_EMAIL, se quiser adicionar esses links.
-  3. Confirme que o GIF está em assets/cathedral-sunset.gif.
-  Os cards já estão apontando para github.com/Larycronx.
---> <div align="center"> <img src="./assets/cathedral-sunset.gif" alt="Catedral dourada sob um sol poente em pixel art" width="100%">
 
 # ✦ Larycronx ✦
 
