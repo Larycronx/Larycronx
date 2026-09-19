@@ -1,3 +1,4 @@
+<img width="2048" height="880" alt="cathedral-sunset" src="https://github.com/user-attachments/assets/a3e354e3-8630-4d05-b345-0c217c879bf8" />
 ## Hi there 👋
 
 <!--
