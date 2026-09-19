@@ -1,4 +1,6 @@
-<div align="center"> <img src="./assets/cathedral-sunset.gif" alt="Catedral dourada sob um sol poente em pixel art" width="100%">
+<img width="1200" height="514" alt="image" src="https://github.com/user-attachments/assets/2535744f-1113-44f8-9f89-28144d8e7ad0" />
+
+
 
 # ✦ Larissa ✦
 
