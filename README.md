@@ -127,9 +127,9 @@ Sigo expandindo minha base e buscando novos desafios: lógica, organização de 
 
 | Projeto | O que é | Principal aprendizado | Estado |
 |:--|:--|:--|:-:|
-| [**Python-exercises**](https://github.com/Larycronx/Python-exercises) | Exercícios, testes e práticas em Python: lógica, estruturas, funções e formas de resolver problemas com código. | Lógica e prática com Python | 🌱 Em evolução |
-| [**Der Banco de Dados**](https://github.com/Larycronx/Der_Banco_De_Dados) | Organização e modelagem de bancos de dados: como estruturar, relacionar e usar informações em um sistema. | Modelagem de dados | 🛠️ Em desenvolvimento |
-| [**Alchemy System**](https://github.com/Larycronx/alchemy-system) | Sistema experimental inspirado em lógica, combinação e alquimia, para transformar uma ideia criativa em código. | Experimentação e construção de sistemas | ⚗️ Em construção |
+| [**Python-exercises**](https://github.com/Larycronx/Python-exercises) | Exercícios, testes e práticas em Python: lógica, estruturas, funções e formas de resolver problemas com código. | Lógica e prática com Python |  Em evolução |
+| [**Der Banco de Dados**](https://github.com/Larycronx/Der_Banco_De_Dados) | Organização e modelagem de bancos de dados: como estruturar, relacionar e usar informações em um sistema. | Modelagem de dados |  Em desenvolvimento |
+| [**Alchemy System**](https://github.com/Larycronx/alchemy-system) | Sistema experimental inspirado em lógica, combinação e alquimia, para transformar uma ideia criativa em código. | Experimentação e construção de sistemas |  Em construção |
 
 <sub>Mesmo quando um projeto ainda está em construção, ele já faz parte da minha evolução. Pesquisar, testar, corrigir e continuar importa tanto quanto o resultado final.</sub>
 
