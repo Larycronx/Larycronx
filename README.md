@@ -190,7 +190,11 @@ Sigo expandindo minha base e buscando novos desafios: lógica, organização de 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Larycronx&bg_color=17131a&color=d6c18a&line=9e3d45&point=d9d4c7&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" width="820">
+<img src="https://streak-stats.demolab.com?user=Larycronx&..." alt="Sequência de contribuições" width="820">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Larycronx/Larycronx/output/snake.svg" alt="Cobrinha de contribuições" width="820">
 
 </div>
 
