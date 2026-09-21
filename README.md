@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## ✦ Larissa ✦
+## ✦ Eu ✦
 
 | Atributo | Valor |
 |:--|:--|
