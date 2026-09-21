@@ -52,7 +52,6 @@ Sou uma desenvolvedora em constante evolução, explorando novas tecnologias e t
 
 ## ✦ O caminho percorrido
 
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larycronx&theme=github_dark" alt="Resumo do perfil e contribuições de Larycronx" width="900"> </div>
 
 ## ✦ Linguagens mais usadas
 
