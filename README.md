@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## ✦ Ficha da personagem ✦
+## ✦ Larissa ✦
 
 | Atributo | Valor |
 |:--|:--|
