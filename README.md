@@ -192,10 +192,6 @@ Sigo expandindo minha base e buscando novos desafios: lógica, organização de 
 
 <img src="https://streak-stats.demolab.com?user=Larycronx&..." alt="Sequência de contribuições" width="820">
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Larycronx/Larycronx/output/snake.svg" alt="Cobrinha de contribuições" width="820">
-
 </div>
 
 ---
