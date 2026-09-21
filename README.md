@@ -190,7 +190,6 @@ Sigo expandindo minha base e buscando novos desafios: lógica, organização de 
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Larycronx&..." alt="Sequência de contribuições" width="820">
 
 </div>
 
