@@ -105,6 +105,8 @@ Sigo expandindo minha base e buscando novos desafios: lógica, organização de 
 <img src="https://img.shields.io/badge/Git-17131a?style=for-the-badge&logo=git&logoColor=d6c18a" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-17131a?style=for-the-badge&logo=github&logoColor=d6c18a" alt="GitHub">
 <img src="https://img.shields.io/badge/Mermaid-17131a?style=for-the-badge&logo=mermaid&logoColor=9e3d45" alt="Mermaid">
+<img src="https://img.shields.io/badge/HTML5-17131a?style=for-the-badge&logo=html5&logoColor=d6c18a" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-17131a?style=for-the-badge&logo=css3&logoColor=d6c18a" alt="CSS3">
 
 <br><br>
 
