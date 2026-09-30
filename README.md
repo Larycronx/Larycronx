@@ -213,7 +213,7 @@ Cada commit é movimento, cada projeto é uma nova tentativa, e cada tentativa �
 
 <br>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=lari-rpg&color=blueviolet&style=for-the-badge)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Larycronx&color=blue&style=flat)
 
 <br>
 
