@@ -213,7 +213,7 @@ Cada commit é movimento, cada projeto é uma nova tentativa, e cada tentativa �
 
 <br>
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Larycronx&color=blue&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Larycronx&color=orange&style=flat" alt="GitHub Profile Views">
 
 <br>
 
