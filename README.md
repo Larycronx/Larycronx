@@ -213,7 +213,7 @@ Cada commit é movimento, cada projeto é uma nova tentativa, e cada tentativa �
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Larycronx&color=9E3D45&style=flat-square&label=VISITAS" alt="Contador de visitas">
+<[img src="https://komarev.com/ghpvc/?username=Larycronx&color=9E3D45&style=flat-square&label=VISITAS" alt="Contador de visitas"](https://camo.githubusercontent.com/e8a727e38fc3454386e0baa2c372678eae510daf748e43ce1ddb6a13312b03bc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d6f72616e6765)>
 
 <br>
 
